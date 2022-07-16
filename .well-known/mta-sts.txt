@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: uvail.jp
+mx: uvail-jp.mail.protection.outlook.com 
 mx: *.mail.protection.outlook.com
 max_age: 86400
